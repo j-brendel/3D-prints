@@ -1,3 +1,3 @@
 # 3D-prints
 
-This repository contains projects containing 3D printed objects
+This repository contains projects that employ 3D printed objects
